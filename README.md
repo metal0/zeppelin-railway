@@ -7,7 +7,7 @@
 - [Discord Account](https://discord.com)
 - [GitHub Account](https://github.com) - older than 30 days
 
-## 
+##
 
 Link your Discord account to Railway from account settings **[REQUIRED]**
 
@@ -16,7 +16,7 @@ Run the `/beta` slash command in the Railway Discord Server
 ## Setting up the Railway Project
 
 Create a new project, provisioned with the MySQL Plugin
-![Provision MySQL](/assets/images/provision_mysql.png "Provision MySQL")
+![Provision MySQL](/assets/images/provision_mysql.png 'Provision MySQL')
 
 Run Control/Command + K and select Metrofy
 
@@ -41,7 +41,7 @@ Rename the service if you would like and set the root directory to `/api`
 > ```bash
 >  # Optional, for advanced users (replace with your custom fork)
 >
->  GIT_REPO=https://github.com/Dragory/ZeppelinBot.git
+>  GIT_REPO=https://github.com/ZeppelinBot/Zeppelin.git
 > ```
 
 Create a variable named `KEY` and set it to
